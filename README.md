@@ -12,7 +12,7 @@ A bass sequencer with synthesized sounds, sibling of ROBO/SOLO and ROBO/BEAT for
 
 - **16-step grid.** Tap a cell: hit → accent → clear. The **HOLD** row sustains a note into the next step.
 - **9 synthesized sounds:**
-  - Close to a real bass (Karplus-Strong plucked string): Finger Bass, Pick Bass, Slap Bass, Fretless.
+  - Close to a real bass: Finger Bass and Slap Bass (modal synthesis: each string partial is modelled with pickup position, string stiffness, pitch glide on the attack and an amp/cabinet chain), plus Pick Bass and Fretless.
   - 80s synth bass: Moog Saw, Juno Square, FM Bass DX7, Resonant Acid, Sub Sine.
 - **10 preset patterns:** Synth Pop 8ths, New Wave Pick, Disco Octaves, Walking Blues, 80s Funk, 80s FM, Ballad Fretless, Reggae, Acid, Empty.
 - **Tempo** with tap tempo, **click metronome**, **swing**, **note length**, and **octave −1 to +2**.
